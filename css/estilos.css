@@ -4,4 +4,11 @@
 }
 body{
     background-color: blue;
+    color: white;
+}
+.cajita{
+    width: 60%;
+    height: 30px;
+    border: 1px solid rgb(90, 138, 240);
+    margin-top: 30px;
 }
